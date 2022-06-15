@@ -1,7 +1,7 @@
 /*
  * File: input_helpers.c
- * Auth: Brook Endale
- *       Biruk Tefera
+ * Auth:Brook Endale
+ *      Biruk Tefera
  */
 
 #include "shell.h"
