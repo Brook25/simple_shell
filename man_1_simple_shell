@@ -1,10 +1,10 @@
-.TH SHELLBY 1 "June 2022" "ALX School" "0x16. C - Simple Shell"
+.TH simple_shell 1 "June 2022" "ALX School" "0x16. C - Simple Shell"
 .SH NAME
-.B shellby\fR \- simple UNIX command interpreter
+.simple_shell\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
-.B shellby\fR [\fIfilename\fR]
+.simple_shell\fR [\fIfilename\fR]
 .SH DESCRIPTION
-.B Shellby\fR is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
+.simple_shell\fR is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
 
 .B Invocation
 .in +2n
